@@ -1,0 +1,44 @@
+# Node.js
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Dependency directories
+pids/
+logs/
+results/
+
+# dotenv environment variable files
+.env
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Environment variables file
+.env
+
+# npm
+*.json
+package-lock.json
+
+# Production build
+/build/
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Tests
+*.test.js
+*.spec.js
+
+# Custom application files
+config.js
