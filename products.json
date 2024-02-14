@@ -1,0 +1,176 @@
+[
+  {
+    "name": "apple12",
+    "price": 69.99,
+    "featured": true,
+    "company": "iphone"
+  },
+  {
+    "name": "samsungGalaxy",
+    "price": 79.99,
+    "featured": true,
+    "company": "samsung"
+  },
+  {
+    "name": "dellXPS",
+    "price": 109.99,
+    "featured": true,
+    "company": "dell"
+  },
+  {
+    "name": "miNotebook",
+    "price": 59.99,
+    "featured": false,
+    "company": "mi"
+  },
+  {
+    "name": "iphone13",
+    "price": 799.99,
+    "featured": true,
+    "company": "iphone"
+  },
+  {
+    "name": "samsungGalaxyBook",
+    "price": 129.99,
+    "featured": false,
+    "company": "samsung"
+  },
+  {
+    "name": "dellInspiron",
+    "price": 899.99,
+    "featured": true,
+    "company": "dell"
+  },
+  {
+    "name": "miPad",
+    "price": 199.99,
+    "featured": false,
+    "company": "mi"
+  },
+  {
+    "name": "iphoneSE",
+    "price": 399.99,
+    "featured": true,
+    "company": "iphone"
+  },
+  {
+    "name": "samsungNotebook",
+    "price": 679.99,
+    "featured": true,
+    "company": "samsung"
+  },
+  {
+    "name": "dellLatitude",
+    "price": 1299.99,
+    "featured": false,
+    "company": "dell"
+  },
+  {
+    "name": "miAir",
+    "price": 799.99,
+    "featured": true,
+    "company": "mi"
+  },
+  {
+    "name": "iphonePro",
+    "price": 1199.99,
+    "featured": false,
+    "company": "iphone"
+  },
+  {
+    "name": "samsungChromebook",
+    "price": 349.99,
+    "featured": true,
+    "company": "samsung"
+  },
+  {
+    "name": "dellPrecision",
+    "price": 1499.99,
+    "featured": true,
+    "company": "dell"
+  },
+  {
+    "name": "miBookPro",
+    "price": 999.99,
+    "featured": false,
+    "company": "mi"
+  },
+  {
+    "name": "iphoneMini",
+    "price": 699.99,
+    "featured": true,
+    "company": "iphone"
+  },
+  {
+    "name": "samsungTab",
+    "price": 299.99,
+    "featured": false,
+    "company": "samsung"
+  },
+  {
+    "name": "dellVostro",
+    "price": 599.99,
+    "featured": true,
+    "company": "dell"
+  },
+  {
+    "name": "miSmartphone",
+    "price": 499.99,
+    "featured": false,
+    "company": "mi"
+  },
+  {
+    "name": "iphoneMax",
+    "price": 1499.99,
+    "featured": true,
+    "company": "iphone"
+  },
+  {
+    "name": "samsungGalaxyWatch",
+    "price": 199.99,
+    "featured": true,
+    "company": "samsung"
+  },
+  {
+    "name": "dellAlienware",
+    "price": 2499.99,
+    "featured": false,
+    "company": "dell"
+  },
+  {
+    "name": "miGamingLaptop",
+    "price": 1299.99,
+    "featured": true,
+    "company": "mi"
+  },
+  {
+    "name": "iphoneUltra",
+    "price": 1799.99,
+    "featured": false,
+    "company": "iphone"
+  },
+  {
+    "name": "samsungSmartTV",
+    "price": 799.99,
+    "featured": true,
+    "company": "samsung"
+  },
+  {
+    "name": "dellXPS13",
+    "price": 1199.99,
+    "featured": true,
+    "company": "dell"
+  },
+  {
+    "name": "miFitnessTracker",
+    "price": 49.99,
+    "featured": false,
+    "company": "mi"
+  },
+  {
+    "name": "iphonePlus",
+    "price": 999.99,
+    "featured": true,
+    "company": "iphone"
+  }
+]

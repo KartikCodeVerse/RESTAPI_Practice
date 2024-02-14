@@ -21,7 +21,6 @@ Thumbs.db
 .env
 
 # npm
-*.json
 package-lock.json
 
 # Production build
